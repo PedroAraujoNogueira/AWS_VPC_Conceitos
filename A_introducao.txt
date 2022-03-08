@@ -1,0 +1,3 @@
+O AWS VPC é a camada de rede virtual da AWS, ou seja, é uma rede virtual dedicada 
+para sua conta da AWS. Com o AWS VPC a AWS nos permite executar recursos em redes 
+que nós mesmos definirmos.
